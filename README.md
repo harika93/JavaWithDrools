@@ -1,1 +1,1 @@
-# JavaWithDrools
+# Java - Drools
